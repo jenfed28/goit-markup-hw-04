@@ -224,7 +224,7 @@ a {
 
 .features-list {
   display: flex;
-  gap: 24px;
+  gap: 8px 24px;
 }
 
 .features-item {
@@ -235,7 +235,6 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 24px 100px;
 }
 
 .features-subtitle {
@@ -245,7 +244,6 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
   padding-bottom: 8px;
-  padding-top: 8px;
 }
 
 .features-item-text {
